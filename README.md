@@ -1,1 +1,2 @@
-# ekg_plot
+# equus-app
+Android Equus-app
